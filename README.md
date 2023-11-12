@@ -336,7 +336,7 @@ If you have any suggestion of a site to be included in the search, make a pull r
 
 ## Contributors 🏅
 <a href="https://github.com/p1ngul1n0/blackbird/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=p1ngul1n0/blackbird" />
+  <img src="[https://contrib.rocks/image?repo=p1ngul1n0/blackbird](https://i.ibb.co/L5dhXFf/image-svg.png)" />
 </a>
 
 I'm grateful to all contributors who improved and bugfixed the project.
@@ -352,6 +352,7 @@ I'm grateful to all contributors who improved and bugfixed the project.
 - <a href="https://github.com/Sebsebzen">@Sebsebzen</a> - Added VKontakte (with metadata).
 - <a href="https://github.com/LsvanDarko">@LsvanDarko</a> - Added requests package to requirements.txt.
 - <a href="https://github.com/wymiotkloaki">@wymiotkloaki</a> - Added basic .gitignore file.
+- <a href="https://github.com/drshpackz">@drshpackz</a> - Enhanced web scraping resources.
 
 ## Planned features
 
