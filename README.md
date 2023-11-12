@@ -336,7 +336,7 @@ If you have any suggestion of a site to be included in the search, make a pull r
 
 ## Contributors 🏅
 <a href="https://github.com/p1ngul1n0/blackbird/graphs/contributors">
-  <img src="[https://contrib.rocks/image?repo=p1ngul1n0/blackbird](https://i.ibb.co/L5dhXFf/image-svg.png)" />
+  <img src="https://i.ibb.co/L5dhXFf/image-svg.png" />
 </a>
 
 I'm grateful to all contributors who improved and bugfixed the project.
